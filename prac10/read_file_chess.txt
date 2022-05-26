@@ -1,0 +1,65 @@
+Principles of Chess
+01.  Develop your pieces quickly.
+02.  Control the center.
+03.  Try to put your pieces on squares that give them maximum space.
+04.  Try to develop your knights towards the center.
+05.  A knight on the rim is dim.
+06.  Don't take unnecessary chances.
+07.  Play aggressive.
+08.  Calculate forced moves first.
+09.  Always ask yourself, "Can he put me in check or win a piece?"
+10.  Have a plan.  Every move should have a purpose.
+11.  Assume your opponent's move is his best move.
+12.  Ask yourself, "why did he move there?" after each opponent move.
+13.  Play for the initiative and contolling the board.
+14.  If you must lose a piece, get something for it if you can.
+15.  When behind, exchange pawns.  When ahead, exchange pieces.
+16.  If you are losing, don't give up fighting.  Look for counterplay.
+17.  Don't play unsound moves unless you are losing badly.
+18.  Don't sacrifice a piece without good reason.
+19.  If you are in doubt of an opponent's sacrifice, accept it.
+20.  Attack with more that just one or two pieces.
+21.  Do not make careless pawn moves.  They cannot move back.
+22.  Do not block in your bishops.
+23.  Bishops of opposite colors have the greatest chance of drawing.
+24.  Try not to move the same piece twice or more times in a row.
+25.  Exchange pieces if it helps your development.
+26.  Don't bring your queen out early.
+27.  Castle soon to protect your king and develop your rook.
+28.  Develop rooks to open files.
+29.  Put rooks behind passed pawns.
+30.  Study rook endgames.  They are the most common and most complicated.
+31.  Don't let your king get caught in the center.
+32.  Don't castle if it brings your king into greater danger from attack.
+33.  After castling, keep a good pawn formation around your king.
+34.  If you only have one bishop, put your pawns on its opposite color.
+35.  Trade pawns pieces when ahead in material or when under attack.
+36.  If cramped, free your game by exchanging material.
+37.  If your opponent is cramped, don't let him get any freeing exchanges.
+38.  Study openings you are comfortable with.
+39.  Play over entire games, not just the opening.
+40.  Blitz chess is helpful in recognizing chess patterns.  Play often.
+41.  Study annotated games and try to guess each move.
+42.  Stick with just a few openings with White, and a few openings with Black.
+43.  Record your games and go over them, especially the games you lost.
+44.  Show your games to higher rated opponents and get feedback from them.
+45.  Use chess computers and databases to help you study and play more.
+46.  Everyone blunders.  The champions just blunder less often.
+47.  When it is not your move, look for tactics and combinations.
+48.  Try to double rooks or double rook and queen on open files.
+49.  Always ask yourself, "Does my next move overlook something simple?"
+50.  Don't make your own plans without the exclusion of the opponent's threats.
+51.  Watch out for captures by retreat of an opponent's piece.
+52.  Do not focus on one sector of the board.  View thw whole board.
+53.  Write down your move first before making that move if it helps.
+54.  Try to solve chess puzzles with diagrams from books and magazines.
+55.  It is less likely that an opponent is prepared for off-beat openings.
+56.  Recognize transposition of moves from main-line play.
+57.  Watch your time and avoid time trouble.
+58.  Bishops are worth more than knights except when they are pinned in.
+59.  A knight works better with a bishop than another knight.
+60.  It is usually a good idea to trade down into a pawn up endgame.
+61.  Have confidence in your game.
+62.  Play in as many rated events as you can.
+63.  Try not to look at your opponent's rating until after the game.
+64.  Always play for a win.

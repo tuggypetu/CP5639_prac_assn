@@ -1,0 +1,23 @@
+So here's another one. Again, I'm going to ask you to pause and I want you to write the algorithm for this and then go on and try writing the Python code. Press pause and do this
+So that process that we looked at before, decomposition,
+So let's do an example before we get back to the one we just wrote ourselves. So
+So you've probably come up with an algorithm like this. We want to get the age. If the age is 18 plus, then we're going to print allowed. Otherwise, else, we print
+So we've written the code and what we've seen is that  our code
+So the condition we were asking was comparing the variable age and the
+So this is my run window where I ran my previous one. Down the bottom here, you
+So I am going to compare is a greater than b? What do you think? The answer is false. Why? Because a comes before b in the alphabet. So sorting wise, it goes the other
+So in Python, we've seen the syntax for this now, let's just break it down a bit, we
+So I did some conversion before from pseudocode directly to Python, but if we were to do it
+So our goal is to learn five common patterns for decisions. Get familiar with these and don't reinvent the wheel. It's quicker because you don't have to think about it, and you
+So we've already seen, just like we did with the earlier example about whether it's cold outside or the one that I just wrote for whether you got a seniors discount or not. Actually,
+So we use if else when we want to have two possible outcomes and that will cover
+So it's what we call an anti-pattern if we have a second condition. So
+So in this situation, it sounds like the right thing to say if it's less than 40, it's a little cold. Well, if it's greater than 40, it's nice weather. But what about if it's equal
+So we can nest anything inside anything else, and a common thing we might do is a nested decision structure.
+So here's an example. The problem is we want to see if someone
+So if you get this wrong in Python, you're actually going to get a syntax error. So here's an
+So right now I want you to write your Python coding. You can skip the algorithm in this case. Using your knowledge so far, do a menu style programs. So we're going to ask the user for
+So here is the code that would help us with that many program that we have. What you can
+So that was our if-elif-else. There is a pattern that we looked at before by accident, which is the if-elif but with no else intentionally. So sometimes we have mutually exclusive cases that cover all the bases. Like you can either come into the nightclub, your
+So in this case, somebody with a score of 99 passes, wins a car, and
+So here's some like a summary sheet. Feel free to print this out and stick it on your fridge or

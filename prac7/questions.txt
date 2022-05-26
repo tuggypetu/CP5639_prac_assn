@@ -1,0 +1,16 @@
+# Quick questions
+
+1. At the top of the program, after imports.
+
+2. It makes the functions more difficult to reuse. It makes it more difficult to debug because they can be changed
+   anywhere in the function.
+
+3. scope
+
+4. Break point
+
+5. If the value of the variable is being changed, means that it is not a constant, hence variable name should be changed
+   to lowercase.
+
+6. Single Responsibility Principle (SRP)
+

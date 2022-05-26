@@ -1,0 +1,6 @@
+04.  Try to develop your knights towards the center.
+05.  A knight on the rim is dim.
+22.  Do not block in your bishops.
+34.  If you only have one bishop, put your pawns on its opposite color.
+58.  Bishops are worth more than knights except when they are pinned in.
+59.  A knight works better with a bishop than another knight.

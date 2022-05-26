@@ -1,0 +1,27 @@
+# Quick questions
+
+1. Ctrl+/
+2. Single Responsibility Principle
+3. return statement
+4.
+An argument is a piece of data that is sent into a function.
+Functions can use arguments in their bodies, so we use them tocustomise what a function does.
+An argument can be either a variable or a literal.
+
+Parameter is what we call the variable inside the function that is assigned the value of an argument when the function is called.
+A parameter's scope is the whole function in which the parameter is used.
+
+5. random.randint(1,100)
+
+6. print(), int(), float(), input().
+7. 38.5 grams.
+
+
+# Good names
+
+1. determine_subject_grade
+2. convert_usd_to_aud
+3. print_report
+4. calculate_average
+5. determine_if_even
+6. check_if_negative_salary

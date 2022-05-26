@@ -1,0 +1,15 @@
+
+Quick Questions
+
+1. r: Opens the file in read-only mode. w: Opens in write-only mode.
+2. File objects provide methods and attributes to access and manipulate files. Can be read and/or write.
+    File name is a string with a name of the file.
+    File contents is read only.
+3. It reduces the risk of being unknowingly modified or read, and improve RAM performance.
+4. If you use a value more than once, it should probably be a constant.
+5. extension = os.path.splitext('this_is_a_name.txt')[-1]
+6. -1
+
+Logic Exercise
+# How many false statements are there in the list; 0, 1, 2 or 3?
+-> 2 false statements.

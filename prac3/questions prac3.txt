@@ -1,0 +1,37 @@
+# Quick Questions
+
+Given: a = 2, b = 3, c = 4
+
+	1.	!=
+	2.	<=
+	3.	b + c * a > a ** b.      —>.        11 >  8          —>   True
+	4.	True. (True or anything is True)
+	5.	True.
+	6.	(10) % 2 = 0        —>	Hence, True.
+
+
+#Patterns
+
+	1.	if-elif-else
+	2.	if, no else
+	3.	if, if, if,…..
+	4.	if-elif-else
+	5.	if-else or if, no else. Depends on if you want to quit the game or do nothing at the end of program.
+	6.	if-else
+	7.	if-else. But with many conditions in the if statement.
+
+
+# Logic Exercise
+
+Alice, Bill, Carl
+Either
+Youngest, Middle, Oldest
+
+Alice is youngest if Bill is not youngest.  —>    means that Carl is not youngest.
+
+Alice is oldest if Carl is not youngest.     —>   means that Alice is oldest as we know Carl is not youngest.
+
+Alice is the oldest and Bill is the youngest.
+
+
+

@@ -1,0 +1,48 @@
+
+# Quick Questions
+
+1. What is the main difference between a list and a tuple?
+    - List is mutable, and Tuple is immutable. List is dynamic, and tuple is static.
+2. What is the convention for naming lists?
+    - use plural names.
+3. What would be a good name for a list of cities?
+    - cities , or places.
+4. How many elements can you store in a list?
+    - 536870912
+5. True or False? Elements in a list must all be of the same type (e.g. all strings or all integers)?
+    - False
+6. What does Python's len function do? What types can it be used with?
+    - used to calculate the length of any iterable object. Can be used with strings, lists, tuples, and range objects.
+
+
+# Lists Warmup
+numbers = [10, 20, 40, 81]
+numbers[0]
+numbers[-1]
+numbers[3]
+20 in numbers
+1 in numbers
+numbers[1] + numbers[2]
+len(numbers)
+
+    Answers:
+10
+81
+81
+True
+False
+60
+4
+
+
+# Write Python statements or expressions to achieve the following:
+Change the first element of numbers to 1
+Change the last element of numbers to 4
+Check if 1 is an element of numbers
+Print the second value in the list multiplied by 10
+
+    Answers:
+numbers[0] = 1
+numbers[-1] = 4
+1 in numbers
+print(numbers[1] * 10)

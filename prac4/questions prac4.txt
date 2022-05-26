@@ -1,0 +1,50 @@
+
+# Quick Questions
+
+1. Ctrl on Windows, Command on Mac.
+2. Definite (for) and Indefinite (which).
+3. Sentinel is like an instance where the loop stops. Can be specific values such as -1, or "" (the empty string), or can be a range, like < 100. Sentinels cannot be normal/valid data.
+4. Has a capital letter. PEP 8 naming convention is violated. (nothing_wrong) is correct.
+5.     a += b is the same as a = a + b
+   	a *= b is the same as a = a * b
+	a /= b is the same as a = a / b
+    	a -= b is the same as a = a - b
+
+
+# range
+
+	a) Loop outputs
+	1.	0 1 2 3 4 5 
+	2.	33 34 35 36 37 38 
+	3.	17 16 15 14 13 12 
+	4.	1 0 1 0 1 0 1 0 1 0 
+	5.	100>64>36>16>4>
+
+	b) Range values
+	1.	range(6)
+	2.	range(1,14,4)
+	3.	range(3,0,-1)
+	4.	range(7,-6,-3)
+
+
+# Patterns
+
+	1.	indefinite (while loops)
+	2.	indefinite (while loops)
+	3.	definite (for loops)
+	4.	definite (for loops)
+	5.	definite (for loops)
+
+
+# Logic Exercise
+
+WW box => WB or BB
+BB box => WB or WW
+WB box => WW or BB
+
+Check the WB box first, if the marble drawn is white, it is WW, if it is black it is BB. Lets assume it is white, and the box is WW.
+Now, the BB box is not WB, hence it is WB.
+Hence the last box has only one option to be BB.
+
+So, 1 is the fewest. Must start with WB.
+

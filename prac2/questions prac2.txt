@@ -1,0 +1,25 @@
+
+# Quick Questions
+
+	1.	age , minimum_value
+	2.	x , that_variable
+	3.	age_* , 1age
+	4.	underscore_case
+	5.	Constant is a type of variable whose value cannot be changed. Example of Constant- To calculate the circumference of a circle, we can include the constant variable (PI_VALUE = 3.14) .
+	6.	ALL_CAPS
+
+
+# Logic Exercise
+
+W and B socks
+1st attempt => W or B
+Let us assume that the 1st attempt sock is W. 
+Now we have 1W.
+2nd attempt => 1W 1B or 2W
+If 2W, we have a pair of socks. 
+If 1W 1B,
+3rd attempt => 2W 1B or 1W 2B
+In both cased, now we have a pair of same coloured socks.
+
+Hence, the answer is 3. 
+
