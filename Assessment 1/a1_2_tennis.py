@@ -17,6 +17,7 @@ Pseudocode:
 Justification of decision pattern:
 The if-elif-else decision pattern was used because there are 3 mutually exclusive cases of winning, losing, and draw.
 """
+
 print("Welcome Player 1. How was your match?")
 
 your_score = int(input("Your score: "))
