@@ -70,7 +70,7 @@ function get_food(rainfall_value, plant_list)
         calculate_food = int(calculate_food)        # converts value to integer
         print(calculate_food, end=', ')
         total_food += calculate_food
-    if number of plants > 0:            # to remove comma
+    if number of plants > 0:
         print("that is all.")
         return total_food
     else:
